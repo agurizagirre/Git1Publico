@@ -34,7 +34,7 @@ package gitfroga;
 		JButton btnbatuketa;
 		
 		/**
-		 * Launch the application.
+		 * Launch the application Hau GitHub etik aldatu dot.
 		 */
 		public static void main(String[] args) {
 			EventQueue.invokeLater(new Runnable() {
